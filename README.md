@@ -4,4 +4,5 @@
 
 - 📜 In the past, I've worked at @[Trellis](https://trellis.co/) and co-founded and operated an agency called @[The Good Agency](https://thegoodagency.co/) (formerly Make Apps) which partnered with Shopify apparel merchants to build out performant, scalable, conversion-optimized storefronts
 - 🌱 I’m learning about Shopify Hydrogen, graphQL, + building out CI/CD pipelines
-- 🤔 I’m looking for co-contributors for [feathers](https://github.com/meganmcgeee/feathers) and for LA/NYC people who want to jam, learn about live-coding or go to/play an algorave🎵👯 
+- 🤔 I’m looking for for LA/NYC people who want to jam and play an algorave🎵👯 
+
